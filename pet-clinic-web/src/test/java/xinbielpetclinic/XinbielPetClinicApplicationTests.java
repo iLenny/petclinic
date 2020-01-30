@@ -1,4 +1,4 @@
-package com.xinbiel.petclinic.xinbielpetclinic;
+package xinbielpetclinic;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
